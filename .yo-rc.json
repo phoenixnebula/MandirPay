@@ -46,5 +46,21 @@
     "decoratorTemplates": "",
     "providerTemplates": "",
     "routeTemplates": ""
+  },
+  "generator-bangular": {
+    "version": "0.11.2",
+    "filters": {
+      "backend": "mongo",
+      "reload": "livereload",
+      "ngCookies": true,
+      "ngResource": true,
+      "ngSanitize": true,
+      "ngAnimate": true,
+      "hasDocs": true,
+      "apidoc": true,
+      "control": true,
+      "sockets": false,
+      "auth": true
+    }
   }
 }
